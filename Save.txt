@@ -1,0 +1,16 @@
+AVG WPM: 34 Final Time: 1:40 Prompt Length: 58 Accuracy: 85.88%
+AVG WPM: 40 Final Time: 0:43 Prompt Length: 29 Accuracy: 81.65%
+AVG WPM: 56 Final Time: 0:34 Prompt Length: 32 Accuracy: 98.08%
+AVG WPM: 40 Final Time: 0:27 Prompt Length: 18 Accuracy: 95.65%
+AVG WPM: 27 Final Time: 0:24 Prompt Length: 11 Accuracy: 75.81%
+AVG WPM: 44 Final Time: 0:39 Prompt Length: 29 Accuracy: 96.34%
+AVG WPM: 57 Final Time: 0:16 Prompt Length: 15 Accuracy: 58.33%
+AVG WPM: 26 Final Time: 0:25 Prompt Length: 11 Accuracy: 86.57%
+AVG WPM: 48 Final Time: 0:27 Prompt Length: 22 Accuracy: 100%
+AVG WPM: 57 Final Time: 0:28 Prompt Length: 27 Accuracy: 100%
+AVG WPM: 42 Final Time: 1:07 Prompt Length: 48 Accuracy: 82.82%
+AVG WPM: 33 Final Time: 0:27 Prompt Length: 15 Accuracy: 58.33%
+AVG WPM: 61 Final Time: 0:31 Prompt Length: 32 Accuracy: 88.52%
+AVG WPM: 25 Final Time: 1:14 Prompt Length: 32 Accuracy: 58.92%
+AVG WPM: 32 Final Time: 0:50 Prompt Length: 27 Accuracy: 80.51%
+AVG WPM: 30 Final Time: 0:35 Prompt Length: 18 Accuracy: 70.33%
